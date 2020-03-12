@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Design Systems @ Frontend NE - Blog - TruBru</title>
+        <link rel="stylesheet" href="../styles/styles.v1.css">
+    </head>
+    <body>
+        <header>
+            <a href="../index.htm">TruBru</a>
+        </header>
+        <main>
+            <article>
+                <header>
+<h1>Design Systems @ FrontEnd NE December 2019</h1>
+
+<p>At FrontEnd NE, <a href="https://twitter.com/lily_dart">Lily Dart</a>, who is the head of Design Systems at Lloyds Banking Group, talked about the Constellation design system. Constellation was created to provide design components and related documentation for the four brands of the group including Bank of Scotland, Halifax, Lloyds Bank and MBNA.</p>
+
+<p>Her talk was engaging and interesting. It has inspired me to dust off the a design system that I created a few years ago to support development on the internal systems at work. I believe we need one now more than even, than when I first floated the idea.</p>
+
+<p>Read on for my take on Lily’s talk.</p>
+
+
+<h2>What is a design system?</h2>
+
+<blockquote>
+    <p>An official story of how your organisation designs and builds digital products.</p>
+    <footer>— Brad Frost</footer>
+</blockquote>
+
+<blockquote>
+    <p>A design system is a product made for the organisation. It provides the tools, materials, guidance, and standards needed for digital design and delivery</p>
+    <footer>-Lily Dart</footer>
+</blockquote>
+
+<p>A design system contains the documentation and tools to build digital products. It starts from a shared vision, design and technology principles and the brand.</p>
+
+<p>Development teams will use the system when developing digital products and provide feedback. The system serves the needs of the development teams - who are the user. </p>
+
+
+<h2>Why have a design system?</h2>
+
+<p>A design system</p>
+<ul>
+<li> creates alignment over digital user experience will allow development teams to concentrate of the development of the systems by providing re-usable components and patterns that they can use with confidence. </li>
+
+<li>helps design teams to create prototypes and concepts that fit it with the design of the system.</li>
+
+<li>contains page components, brand guidelines and tone of voice or content design principles.</li>
+</ul>
+
+<blockquote>
+    <p>Customers may perceive an inconsistent user interface as unprofessional, buggy or at worst fraudulent.</p>
+    <footer>-Lily Dart</footer>
+</blockquote>
+
+<p>Lily talked about an audit of Halifax’s buttons and found for one that single brand, there were at least 26 different variants - which contributes to a inconstant UI.</p>
+
+<p>To combat this, a design system will contain colours, fonts, components, code and guidance on usage. This will help create the consistent experience that is needed to give users confidence in the websites and software that they are using.</p>
+
+
+<h2>Benefits of a design system</h2>
+<ul>
+<li>Saves time - reusable code components help developers by taking away the guess work.</li>
+
+<li>Reduces risk - design systems will ensure accessibility can be built in - for instance accessible markup and colour contrast.</li>
+
+<li>Ensures brand consistency and integrity</li>
+
+<li>saves money - Lloyds banking group saved £190k per project - they have 300 designers and 2000 developers in the group.</li>
+</ul>
+
+<h2>Reasons to have a design system</h2>
+<p>The organisation</p>
+
+<ol>
+<li> has more than 20 designers, developers and content people</li>
+
+<li> is seeing inconsistencies in the customer experience</li>
+
+<li> wants to design and build faster.</li>
+</ol>
+
+
+<h2>Examples of Design Systems</h2>
+<ul>
+    <li><a href="https://design-system.service.gov.uk/">UK Government</a></li>
+    <li><a href="https://beta.nhs.uk/service-manual">NHS</a></li>
+    <li><a href="https://www.digital.govt.nz/standards-and-guidance/design-and-ux/new-zealand-government-design-system">New Zealand Government</a></li>
+    <li><a href="https://designsystem.gov.au/">Australian Government</a></li>
+    <li><a href="https://designsystem.digital.gov/">US Government</a></li>
+    <li><a href="https://www.bbc.co.uk/gel/">BBC</a></li>
+    <li><a href="https://material.io/">Material by Google</a></li>
+</ul>                
+<footer>
+                    <p>Published <time pubdate="2019-12-13">13<sup>th</sup> December 2019</time></p>
+                </footer>
+            </article>
+        </main>
+        <footer>
+            <nav>
+                <ul>
+                    <li><a href="../pages/about.htm">About</a></li>
+                    <li><a href="../pages/archive.htm">Archive</a></li>
+                </ul>
+            </nav>
+        </footer>
+    </body>
+</html>
